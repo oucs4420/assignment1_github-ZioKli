@@ -1,3 +1,9 @@
+/**
+ * \author: Zion Klinger
+ * \date: 2022-01-14
+ * \brief: first homework assignment for CS4420 Operating Systems.
+ *         Counts the number of lines in a text file
+ */
 #include <fstream>
 #include <iostream>
 using namespace std;
